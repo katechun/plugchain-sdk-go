@@ -1,4 +1,4 @@
-module plugchain-sdk-go
+module github.com/katechun/plugchain-sdk-go
 
 go 1.17
 
